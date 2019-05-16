@@ -6,5 +6,5 @@ cd app_json
 mv Quiz.json ..
 mv BoothMission.json ..
 cd ..
-mv Quiz.json Mopcon/Mopcon/JSON
-mv BoothMission.json Mopcon/Mopcon/JSON
+mv Quiz.json Mopcon/JSON
+mv BoothMission.json Mopcon/JSON
